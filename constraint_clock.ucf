@@ -1,0 +1,2 @@
+NET "inp_clk" LOC = "B8";
+NET "out_clk" LOC = "G1";

@@ -1,0 +1,4 @@
+NET "in_clk" LOC = "B8";
+NET "f0clk" LOC = "G1";
+NET "f1clk" LOC = "P4";
+NET "f2clk" LOC = "N4";
